@@ -52,9 +52,6 @@ Autonomous driving systems rely heavily on accurate visual recognition to detect
    ```
 
 ## 📊 Results
-
-The final model achieves solid performance in distinguishing vehicles from animals, demonstrating its usefulness as a building block for autonomous vehicle perception systems.
 ---
+The final model achieves solid performance in distinguishing vehicles from animals, demonstrating its usefulness as a building block for autonomous vehicle perception systems.
 
-
-Just let me know!
