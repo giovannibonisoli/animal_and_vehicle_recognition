@@ -31,7 +31,6 @@ Autonomous driving systems rely heavily on accurate visual recognition to detect
 ## 📁 Repository Contents
 
 * `project.ipynb` – Main Jupyter Notebook containing the full project workflow
-* (Optional) Add folders such as `data/`, `models/`, or `scripts/` if you include them later
 
 ## ▶️ How to Run
 
